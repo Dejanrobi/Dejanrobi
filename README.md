@@ -1,6 +1,7 @@
 <h1>Hi There👋, I'm Dejan!!!</h1>
 <h3>A Front-End Engineer</h3>
 
+<hr/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dejanrobi&show_icons=true&theme=radical)
 
 
