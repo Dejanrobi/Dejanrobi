@@ -1,8 +1,8 @@
 <h1>Hi There👋, I'm Dejan!!!</h1>
 <h3>A Front-End Engineer</h3>
 
-<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=Dejanrobi&show_icons=true&theme=radical"/>
-<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dejanrobi&layout=compact"/>
+<img align="left" width="43%" src="https://github-readme-stats.vercel.app/api?username=Dejanrobi&show_icons=true&theme=radical"/>
+<img align="left" width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dejanrobi&layout=compact"/>
 
 
 <h3>Languages and Skills</h3>
