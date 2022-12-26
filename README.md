@@ -1,5 +1,7 @@
-<h1 align="center">Hi There👋, I'm Dejan!!!</h1>
-<h3 align="center">A Front-End Engineer</h3>
+<h1>Hi There👋, I'm Dejan!!!</h1>
+<h3>A Front-End Engineer</h3>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dejanrobi&show_icons=true&theme=radical)
 
 
 
