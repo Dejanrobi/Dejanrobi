@@ -4,7 +4,7 @@
 <img align="left" width="43%" src="https://github-readme-stats.vercel.app/api?username=Dejanrobi&show_icons=true&theme=radical"/>
 <img align="left" width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dejanrobi&layout=compact"/>
 
-
+<br>
 <h3>Languages and Skills</h3>
 <img align="left" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img align="left" src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"/>
