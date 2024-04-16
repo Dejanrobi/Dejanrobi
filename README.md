@@ -2,8 +2,8 @@
 <h3>A Front-End Engineer</h3>
 <br>
 <br>
-<img  width="60%" src="https://github-readme-stats.vercel.app/api?username=Dejanrobi&show_icons=true&theme=radical"/>
-<img  width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dejanrobi&layout=compact"/>
+<!-- <img  width="60%" src="https://github-readme-stats.vercel.app/api?username=Dejanrobi&show_icons=true&theme=radical"/>
+<img  width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dejanrobi&layout=compact"/> -->
 
 <br>
 <h3 >Languages and Skills</h3>
