@@ -22,8 +22,8 @@
 <br>
 <h3>Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@dejan_robi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@dejan_robi" height="30" width="40" /></a>
+<!-- <a href="https://twitter.com/@dejan_robi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@dejan_robi" height="30" width="40" /></a> -->
 <a href="https://linkedin.com/in/dejan-robi-ab426b232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dejan-robi-ab426b232" height="30" width="40" /></a>
-<a href="https://fb.com/dejan.robi.311?mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dejan.robi.311?mibextid=zbwkwl" height="30" width="40" /></a>
+<!-- <a href="https://fb.com/dejan.robi.311?mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dejan.robi.311?mibextid=zbwkwl" height="30" width="40" /></a> -->
 <a href="https://instagram.com/dejanrobi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dejanrobi" height="30" width="40" /></a>
 </p>
